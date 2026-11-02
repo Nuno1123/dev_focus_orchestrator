@@ -1,38 +1,38 @@
 {
-	"in_project": false,
-	"project_name": null,
-	"project_tasks": [],
-	"trainings": [
-		{
-			"track": "Architecting Cloud Native AI Agents and Generative Systems",
-			"modules": [
-				{
-					"name": "Agentic Framework & Agentic Design",
-					"status": "done"
-				},
-				{
-					"name": "Cloud-Native AI Services",
-					"status": "done"
-				},
-				{
-					"name": "AI Architecture & Systems Design",
-					"status": "not_enrolled",
-					"current": true,
-					"deadline": "2026-11-03",
-					"estimated_hours_left": 0.4
-				}
-			]
-		},
-		{
-			"track": "Deploy Agentic RAG Systems to Generate and Improve Document Research and Reviews",
-			"status": "pending",
-			"current": false,
-			"deadline": null,
-			"estimated_hours_left": 1
-		}
-	],
-	"next_milestones": [
-		"Concluir track 1 (Cloud-Native AI Services + AI Architecture & Systems Design)",
-		"Explorar e integrar Claude Code no fluxo de trabalho"
-	]
+  "in_project": false,
+  "project_name": null,
+  "project_tasks": [],
+  "trainings": [
+    {
+      "track": "Architecting Cloud Native AI Agents and Generative Systems",
+      "modules": [
+        {
+          "name": "Agentic Framework & Agentic Design",
+          "status": "done"
+        },
+        {
+          "name": "Cloud-Native AI Services",
+          "status": "done"
+        },
+        {
+          "name": "AI Architecture & Systems Design",
+          "status": "not_enrolled",
+          "current": true,
+          "deadline": "2026-11-03",
+          "estimated_hours_left": 0.4
+        }
+      ]
+    },
+    {
+      "track": "Deploy Agentic RAG Systems to Generate and Improve Document Research and Reviews",
+      "status": "pending",
+      "current": false,
+      "deadline": null,
+      "estimated_hours_left": 1.0
+    }
+  ],
+  "next_milestones": [
+    "Concluir track 1 (Cloud-Native AI Services + AI Architecture & Systems Design)",
+    "Explorar e integrar Claude Code no fluxo de trabalho"
+  ]
 }
